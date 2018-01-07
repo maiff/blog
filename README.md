@@ -1,3 +1,3 @@
 # 目录
 ============
-# Detail in issue
+# [Detail in issue](https://github.com/maiff/blog/issues)
